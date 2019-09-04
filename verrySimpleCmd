@@ -1,0 +1,4 @@
+Demo – 1: Git Common Commands 
+ 
+▪ Set up username for your repository Syntax: git config --global user.name “username”
+▪ Set up user-email for your repository Syntax: git config --global user.email “useremail@example.com” 
