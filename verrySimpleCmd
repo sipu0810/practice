@@ -4,3 +4,4 @@ Demo – 1: Git Common Commands
 ▪ Set up user-email for your repository Syntax: git config --global user.email “useremail@example.com”
 
 ▪ Select or create the Directory where you want to initialize Git ▪ Initialize Git in the Directory Syntax:git init  
+use git add. 
